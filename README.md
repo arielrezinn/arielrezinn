@@ -1,4 +1,4 @@
-# Hey!👋 Explore my repositories or check out [arielrezin.com](https://arielrezin.com)!
+# Welcome :) Explore my repositories or check out [arielrezin.com](https://arielrezin.com)!
 
 <!---
 arielrezinn/arielrezinn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
